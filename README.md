@@ -1,1 +1,1 @@
-These are my completed projects for the Udacity Nanodegree program entitled Introduction to Cybersecurity.
+These are my completed projects for the Udacity Nanodegree program entitled Introduction to Cybersecurity.  Within each project folder, there is a project criteria explainig what needed to be to complete the project successfully.
